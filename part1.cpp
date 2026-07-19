@@ -1,7 +1,6 @@
 /**
  * Reema Aboudraz - 40253549
  * Wissem Oumsalem - 40291712  
- * Omar El Akrae   - 40252799
  * Assignment 1, COMP 371 
  * Summer 2026
  * Professor Nagi Basha
@@ -34,7 +33,6 @@ namespace
         std::cout << "Submitted by:\n";
         std::cout << "  1. Aboudraz, Reema      - 40253549\n";
         std::cout << "  2. Wissem Oumsalem      - 40291712\n";
-        std::cout << "  3. Omar El Akrae        - 40252799\n";
 
         printSeparator();
         std::cout << "Dynamic Array Creation and Memory Management Program\n";
